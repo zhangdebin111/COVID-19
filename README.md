@@ -254,5 +254,4 @@ GitHub： https://github.com/zhangdebin111/COVID-19
 
 如有朋友愿意翻译为其它语言，请抖音留言联系：zhangdebin
 
-微信公众号：!(/images/qrcode_for_gh_e598daf86c34_430.jpg)
-
+微信公众号：![微信公众号](/images/qrcode_for_gh_e598daf86c34_430.jpg)
